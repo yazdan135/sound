@@ -1,0 +1,10 @@
+input#file-upload-button {
+    background-color: red !important;
+}
+
+.tag {
+    padding: 8px 12px;
+    border-radius: 50px;
+    font-size: 10px;
+    text-transform: uppercase;
+}
